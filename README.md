@@ -11,3 +11,6 @@ View the Solar System 👉👉 https://solar-syatem-by-subhajit.netlify.app/
 
 ## 👨‍💻 Author  
 Created by Subhajit Das
+
+Thanks for visiting! 🌟
+If you found this helpful and want to learn more, follow me!
