@@ -9,7 +9,7 @@ View the Solar System 👉👉 https://solar-syatem-by-subhajit.netlify.app/
 - HTML  
 - CSS  
 
-## 👨‍💻 Author  
+## 👨‍💻 Author   
 
 Created by Subhajit Das
 
