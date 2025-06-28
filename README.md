@@ -9,6 +9,6 @@ View the Solar System 👉👉 https://solar-syatem-by-subhajit.netlify.app/
 - HTML  
 - CSS  
 
+Thanks for visiting! 🌟
+If you found this helpful and want to learn more, follow me!
 
-
-Thank you for visiting! Stay connected for more updates. 🚀
